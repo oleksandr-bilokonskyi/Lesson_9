@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'BOLDE';
+  src: url(./BOLDE.woff) format('woff'),
+       url(./BOLDE.woff2) format('woff2');
+}

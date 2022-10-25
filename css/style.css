@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap);
+
+@font-face {
+   font-family: 'BOLDE';
+   src: url(../fonts/converted-fonts/BOLDE.woff2) format("woff2"), url(../fonts/converted-fonts/BOLDE.woff) format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+body {
+   font-family: 'Lato';
+   color: #424551;
+   
+}
+
+.page__container{
+   max-width: 1200px;
+   margin: 0 auto;
+}
+.page__image{
+   max-width: 100%;
+}
